@@ -1,5 +1,5 @@
 package models.classes;
-import models.Character
+import models.Character;
 import models.RaceType;
 import models.specialisations.DruidSpec;
 
